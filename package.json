@@ -20,10 +20,14 @@
     "audio",
     "input"
   ],
-  "author": "Ranieri Abreu Silva Junior (ran-junior@hotmail.com)",
+  "author": "Ranieri <ran-junior@hotmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/ran-j/mic6/issues"
   },
-  "homepage": "https://github.com/ran-j/mic6#readme"
+  "homepage": "https://github.com/ran-j/mic6#readme",
+  "directories": {
+    "lib": "lib",
+    "test": "tests"
+  }
 }
