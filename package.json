@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ashishbajaj99/mic.git"
+    "url": "git+https://github.com/ran-j/mic6.git"
   },
   "keywords": [
     "node-mic",
@@ -23,7 +23,7 @@
   "author": "Ashish Bajaj <bajaj.ashish@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ashishbajaj99/mic/issues"
+    "url": "https://github.com/ran-j/mic6/issues"
   },
-  "homepage": "https://github.com/ashishbajaj99/mic#readme"
+  "homepage": "https://github.com/ran-j/mic6#readme"
 }
