@@ -1,5 +1,5 @@
 {
-  "name": "mic",
+  "name": "@ran-j/mic",
   "version": "2.1.2",
   "description": "A simple stream wrapper for arecord (Linux (including Raspbian)) and sox (Mac/Windows). Returns a Passthrough stream object so that stream control like pause(), resume(), pipe(), etc. are all available.",
   "main": "index.js",
@@ -20,7 +20,7 @@
     "audio",
     "input"
   ],
-  "author": "Ashish Bajaj <bajaj.ashish@gmail.com>",
+  "author": "Ranieri Abreu Silva Junior (ran-junior@hotmail.com)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/ran-j/mic6/issues"
